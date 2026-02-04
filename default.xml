@@ -5,7 +5,7 @@
           fetch="https://github.com/" />
 
   <default remote="github"
-           revision="main" />
+           revision="master" />
 
   <project name="sowjanya5606/PythonFullStack"
            path="PythonFullStack" />
