@@ -1,0 +1,17 @@
+# Large / personal files
+Downloads/
+SDV Files/
+*.mp4
+*.zip
+*.deb
+*.pdf
+*.docx
+*.odt
+
+# Python / Django
+db.sqlite3
+media/
+
+# OS junk
+*.log
+*.swp
